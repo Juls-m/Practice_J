@@ -52,7 +52,7 @@ class _logInState extends State<logIn> {
                 Container(
                   width: 290,
                   alignment: Alignment.centerLeft,
-                  child: const Text("Jhules Cute",
+                  child: const Text("Jhules Cute 222",
                       style: TextStyle(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
