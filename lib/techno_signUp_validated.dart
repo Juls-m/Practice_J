@@ -48,7 +48,7 @@ bool passToggle = true;
                 Container(
                   width: 330,
                   alignment: Alignment.centerLeft,
-                  child: const Text("Register Form",
+                  child: const Text("Jhules Cute",
                       style: TextStyle(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
